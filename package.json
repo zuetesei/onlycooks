@@ -2,8 +2,12 @@
   "name": "onlycooks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zuetesei.github.io/onlycooks",
   "main": "server/server.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "start": "node server/server.js",
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
@@ -14,15 +18,15 @@
     "url": "git+https://github.com/zuetesei/onlycooks.git"
   },
   "dependencies": {
-    "apollo-boost": "^0.4.9",
-    "apollo-server-express": "^3.11.1",
-    "graphql": "^15.8.0",
-    "graphql-tag": "^2.12.6",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "apollo-boost": "^0.4.9",
+    "apollo-server-express": "^3.11.1",
     "axios": "^1.2.1",
     "concurrently": "^7.6.0",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
     "jwt-decode": "^3.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -50,5 +54,8 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
