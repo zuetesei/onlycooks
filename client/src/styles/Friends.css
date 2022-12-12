@@ -1,0 +1,10 @@
+.subscribers {
+  width: 600px;
+  height: 700px;
+  box-shadow: rgb(33.3 26.3 23 / 86%) 1px 1px 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 10px 10px;
+  letter-spacing: 0.5px;
+}

@@ -1,0 +1,41 @@
+.home {
+    background-color: var(--tan);
+}
+
+.about-app {
+    padding: 50px 30px 50px 20px;
+}
+
+.intro {
+    padding-right: 40px;
+}
+
+img {
+    max-height: 200px;
+
+}
+
+.home h1 {
+    font-family: 'Pacifico';
+    letter-spacing: 0.5px;
+}
+
+.only-cooks {
+    color: var(--orange);
+}
+
+.home-photo {
+    display: flex;
+    justify-content: center;
+}
+
+.loginForm {
+    padding: 10px 30px 50px 20px;
+}
+
+.Auth-form-home {
+    box-shadow: rgb(33.3 26.3 23 / 36%) 1px 1px 10px;
+    padding: 30px 12px 20px 14px;
+    border-radius: 8px;
+    background-color: #F3F3F3;
+}

@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# OnlyCooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Description](#Description)
+- [Technologies](#Technologies)
+- [Links](#Links)
+- [Screenshots](#Screenshots)
+- [User Instructions](#User-Instructions)
+- [Contributors](#Contributors)
+- [Quesitons](#Questions)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+OnlyCooks is a blogging site that helps to connect people who are interested in cooking, creating, and sharing recipes! Come dicuss anything with your fellow chefs about any types of cuisine, anytime, any place, for any reason!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p float="left">
+<img src="https://www.logolynx.com/images/logolynx/s_1a/1a6dec46e15b0c11c178b4c7d1efd937.png" width="100" height="100">
+<img src="https://www.logolynx.com/images/logolynx/s_3b/3b9d42a73e06ccac04deb9073e5235ba.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902>" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="100" height="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" width="100" height="100">
+<img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" width="100" height="100">
+<img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" width="100" height="100">
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://github.com/zuetesei/cook-book/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Screenshot:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+TODO
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## User-Instructions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+A user can create an account, and post their own recipes, and share other people's recipes. Users can search for keywords for specific types of food, ingredients, or for any posts with any keyword the user wants. Users can comment and vote on other's posts, and also view a dashboard full of their own posts.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributors
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[<img src="https://ca.slack-edge.com/T03EP850QMA-U03LM8MMLH0-56b0d744032b-512" width="75" height="75">](https://github.com/zuetesei)
+[<img src="https://ca.slack-edge.com/T03EP850QMA-U03MGSZ3QG5-196ea0c4619d-512" width="75" height="75">](https://github.com/monkeyd87)
+[<img src="https://ca.slack-edge.com/T03EP850QMA-U03MKQ6HKB3-2c9d97da4786-512" width="75" height="75">](https://github.com/ryanpjhickey)
+[<img src="https://ca.slack-edge.com/T03EP850QMA-U03N7836JG4-cf15bc95dc58-512" width="75" height="75">](https://github.com/idahuy)
+[<img src="https://ca.slack-edge.com/T03EP850QMA-U03LRRGR9SA-26e6f5444e8e-512" width="75" height="75">](https://github.com/jonathonb1)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Questions?
 
-### Analyzing the Bundle Size
+If you have any questions, please contact us at:
+| Name | Github | Email |
+| ----------- | ----------- | ----------- |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| Zue Tesei | [@zuetesei](https://github.com/zuetesei) | zuleikatesei@gmail.com |
 
-### Making a Progressive Web App
+| Dennis Jackson | [@monkeyd87](https://github.com/monkeyd87) | Dennisdjack1987@gmail.com |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+| Ryan Hickey | [@ryanpjhickey](https://github.com/ryanpjhickey) | ryanpjhickey@gmail.com |
 
-### Advanced Configuration
+| Huy Nguyen | [@idahuy](https://github.com/idahuy) | huygnguyen@outlook.com |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+| Jonathon Biala | [@jonathonb1](https://github.com/jonathonb1) | jonathon.biala@gmail.com |
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======

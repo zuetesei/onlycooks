@@ -1,0 +1,14 @@
+.only-cooks-logo {
+    max-height: 100px;
+    margin-bottom: 30px;
+}
+
+.about-section {
+    padding: 50px 100px 50px 100px;
+    background-color: #F3F3F3;
+}
+
+.about-section h2 {
+    color: #DC7647;
+    padding-bottom: 10px;
+}
